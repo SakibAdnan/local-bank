@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+h1, h2, h3, h4{
+    font-weight: 700;
+}
+.bank-card-wrapper {
+    padding: 100px;
+  }
+  .login-card {
+    padding: 40px;
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 8px;
+  }
+  #transection-area {
+    padding: 100px 0;
+    display: none;
+}
+.deposit{
+    background-color: #5F49C8;
+}
+.withdraw{
+    background-color: #F69472;
+}
+.balance{
+    background-color: #F49917;
+}
+.status {
+    padding: 40px;
+    color: 
+    #fff;
+    margin: 0 20px;
+    border-radius: 10px;
+}
